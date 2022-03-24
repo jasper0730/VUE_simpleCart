@@ -1,6 +1,6 @@
 # Vue_simpleCart
 
-https://jasper0730.github.io/Vue_simpleCart/
+Git Pages: https://jasper0730.github.io/Vue_simpleCart/
 
 Used: Vue、Js、Css、Html
 
